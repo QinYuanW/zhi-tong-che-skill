@@ -1,0 +1,6 @@
+# 密钥，绝不提交
+data/amap_key.txt
+
+# Python 缓存
+__pycache__/
+*.pyc
